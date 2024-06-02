@@ -6,7 +6,7 @@ LinkedIn: https://www.linkedin.com/posts/nguyenle21_codebasicsresumeprojectchall
 
 Project Github Link: https://github.com/ldnguyen2211/AtliqHospitality_analysis_resumeproject
 
-Code Basics Challenge Link: https://codebasics.io/event/codebasics-resume-project-challenge
+Code Basics Challenge Link: [https://codebasics.io/event/codebasics-resume-project-challenge](https://codebasics.io/)
 
 Code Basics Youtube Channel: https://www.youtube.com/c/codebasics/featured
 
