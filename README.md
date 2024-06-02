@@ -2,7 +2,9 @@ I have participate in Codebasics Resume Project Challenge for building Data proj
 
 For your information, Codebasics is a Youtube channel covering many topics, including Programming, Data Science, Data Analytics, Artificial Intelligence, Machine Learning, Data Structures, Software Srchitecture, etc. I am so lucky to be a subscriber and learn many things in Data field.
 
-Project Github Link: https://github.com/leducnguyen21/AtliqHospitality_analysis_resumeproject
+LinkedIn: https://www.linkedin.com/posts/nguyenle21_codebasicsresumeprojectchallenge-powerbi-activity-6982009437871890433-3YZ4?utm_source=share&utm_medium=member_desktop
+
+Project Github Link: https://github.com/ldnguyen2211/AtliqHospitality_analysis_resumeproject
 
 Code Basics Challenge Link: https://codebasics.io/event/codebasics-resume-project-challenge
 
